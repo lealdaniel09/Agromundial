@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+/* Variables Globales de Marca - Agromundial */
+:root {
+    --primary-agro: #123019;
+    --accent-agro: #198754;
+}
+
+/* Resets limpios de layout */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
